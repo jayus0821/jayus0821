@@ -1,13 +1,11 @@
-### 👤 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jayus0821&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
- - Name : [jayus]
- - 爱好Web安全
- - 稻草人安全团队
+### About Me 👋
 
-### 🔱 Top Languages
+<img align='right' src="https://profile-counter.glitch.me/jayus0821/count.svg" width="100">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayus0821&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=jayus0821&layout=compact)
+- Name : jayus
+- 研究Web安全
+- 稻草人安全团队
 
-### ✨ Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=jayus0821&show_icons=true)](https://github-readme-stats.vercel.app/api?username=jayus0821&show_icons=true)
