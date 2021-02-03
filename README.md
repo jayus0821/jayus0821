@@ -1,6 +1,6 @@
 ### 👤 About Me
 
- - Nmae:[jayus]
+ - Name : [jayus]
  - 爱好Web安全
  - 稻草人安全团队
 
